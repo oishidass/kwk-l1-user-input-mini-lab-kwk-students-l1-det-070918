@@ -12,7 +12,7 @@ stay = gets.chomp.capitalize
 puts "what kind of food you would like?"
 eat = gets.chomp.capitalize
 
-puts "where would u like to stay from the night?"
+puts "where would u like to stay for the night?"
 night = gets.chomp.capitalize
 
 
