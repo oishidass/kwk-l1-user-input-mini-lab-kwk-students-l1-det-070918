@@ -10,7 +10,7 @@ stay = gets.chomp.capitalize
 # Do the same thing with `eats` and one last time with `nights`, capturing their text input and storing them to the respective local variable
 
 puts "what kind of food you would like?"
-eat = gets.chomp.lowercase
+eat = gets.chomp
 
 puts "where would u like to stay for the night?"
 night = gets.chomp.capitalize
